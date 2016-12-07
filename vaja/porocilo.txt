@@ -1,1 +1,2 @@
 ﻿1. predem smo jih dodali so bile untracked, po dodajanju (pred commitom) so bile staged.
+2. status datotek je bil modified.
